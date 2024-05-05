@@ -1,2 +1,3 @@
 # livroExJS
- Exerciicos do livro logica de programaçao js
+ Exercicios do livro logica de programaçao js
+ alguns exercicios
